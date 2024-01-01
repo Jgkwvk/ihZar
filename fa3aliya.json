@@ -1,566 +1,467 @@
 [
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/gintoki-sakata.jpg",
-      "response": "جينتوكي"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/nami.jpg",
-      "response": "نامي"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/monkey-d.-luffy.jpg",
-      "response": "لوفي"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/akame.jpg",
-      "response": "اكام"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/alphonse-elric.jpg",
-      "response": "الفونس"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/deidara.jpg",
-      "response": "دايدرا"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/touka-kirishima.jpg",
-      "response": "توكا"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/pain.jpg",
-      "response": "بيين"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/erza-scarlet.jpg",
-      "response": "ارزا"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/naruto-uzumaki.jpg",
-      "response": "ناروتو"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/light-yagami.jpg",
-      "response": "لايت"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/greed.jpg",
-      "response": "كريد"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/gajeel-redfox.jpg",
-      "response": "ريدفوكس"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/hashirama-senju.jpg",
-      "response": "سانجي"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/juvia-lockser.jpg",
-      "response": "لوكسر"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/kyo-sohma.jpg",
-      "response": "كيو"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/gin-ichimaru.jpg",
-      "response": "اشيمارو"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/nico-robin.jpg",
-      "response": "نيكو روبن"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/kaoru-hitachiin.jpg",
-      "response": "هيتاشين"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/kenpachi-zaraki.jpg",
-      "response": "زاراكي"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/shoto-todoroki.jpg",
-      "response": "تدوروكي"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/mikasa.jpg",
-      "response": "ميكاسا"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/maes-hughes.jpg",
-      "response": "هانغاس"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/zoe-hange.jpg",
-      "response": "زوي"
-  },
-  {
-      "question": "https://telegra.ph/file/3e13146704e019fb47c39.jpg",
-      "response": "اوبيتو"
-  },
-  {
-      "question": "https://telegra.ph/file/1682bcbd8eb8a422d2941.jpg",
-      "response": "سوكونا"
-  },
-  {
-      "question": "https://telegra.ph/file/d2dd62313753883481cc6.jpg",
-      "response": "ارين"
-  },
-  {
-      "question": "https://telegra.ph/file/d565b73cc0dac653da9b4.jpg",
-      "response": "زورو"
-  },
-  {
-      "question": "https://telegra.ph/file/ead9e3f6a1ad204f0e68d.jpg",
-      "response": "مانهو"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/might-guy.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/king.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/lucy-heartfilia.jpg",
-      "response": "لوسي"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/asta.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/trafalgar-law.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/madara-uchiha.jpg",
-      "response": "مادارا"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/dabi.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/gaara.jpg",
-      "response": "غارا"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/zeref.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/zabuza-momochi.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/kankuro.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/portgas-d.-ace.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/levy-mcgarden.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/sinbad--magi.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/renji-abarai.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/eren-jaeger.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/tony-tony-chopper.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/momo-yaoyorozu.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/neji-hyuga.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/minato-namikaze.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/gray-fullbuster.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/winry-rockbell.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/juuzou-suzuya.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/soul-eater-evans.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/yusuke-urameshi.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/happy.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/tsubaki-nakatsukasa.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/shikaku-nara.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/rangiku-matsumoto.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/sanji.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/sebastian-michaelis.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/jiraiya.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/ciel-phantomhive.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/gon-freecss.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/scar.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/rin-okumura.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/sai.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/izuki-(deku)-midoriya.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/saitama.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/himura-kenshin.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/kirito.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/sasuke-uchiha.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/death-the-kid.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/laxus-dreyar.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/souke-aizen.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/gohan.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/inuyasha.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/killua-zaoldyeck.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/boa-hancock.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/temari.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/kushina-uzumaki.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/yugi-mutou.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/kurapika.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/konan.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/yatogami.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/korosensei.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/vegeta.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/maka-albarn.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/ichigo-kurosaki.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/orochimaru.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/trunks.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/kakashi-hatake.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/mirajane-strauss.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/lelouch-vi-britannia.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/genos.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/ino-yamanaka.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/akamaru.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/alex-louis-armstrong.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/nagato.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/kisuke-urahara.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/yoruichi-shihouin.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/orihime-inoue.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/katuski-bakugo.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/saber.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/rock-lee.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/itachi-uchiha.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/kiba-inuzuka.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/mavis-vermilion.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/pikachu.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/tsunade.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/roronoa-zoro.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/shanks.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/armin-arlelt.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/shisui-uchiha.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/charizard.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/edward-elric.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/sora.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/byakuya-kuchiki.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/spike-spiegel.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/shota-aizawa-(eraser-head).jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/shino-aburame.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/meliodas.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/charlotte-katakuri.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/shikamaru-nara.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/sasori.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/makarov-dreyar.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/ulquiorra-schiffer.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/goku.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/olivier-mira-armstrong.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/obito-uchiha.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/mystogan.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/asuna-yuki.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/levi-ackerman.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/rukia-kuchiki.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/riza-hawkeye.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/wendy-marvell.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/roy-mustang.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/yamato.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/tenten.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/android-18.jpg",
-      "response": ""
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/grimmjow-jaggerjack.jpg",
-      "response": "غريمجوو"
-  },
-  {
-      "question": "https://codebeautify.org/img/random-generators-images/anime-character-images/killer-bee.jpg",
-      "response": "كيلر"
-  }
+
+    {
+
+        "img": "https://telegra.ph/file/62dc6440302ba4dbb51cd.jpg",
+
+        "name": "رايلي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/1e27a997ad1c665aa8658.jpg",
+
+        "name": "ميغومي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/ae2912d507d8835e41e9a.jpg",
+
+        "name": "موزان"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/7a13746ebab6c132acb19.jpg",
+
+        "name": "وايوليت"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/240f9fad116c85b420bbf.jpg",
+
+        "name": "ايساغي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/ff78973403ec1f3bdc5fd.jpg",
+
+        "name": "ميدوريا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/2cc5b740776053dddb581.jpg",
+
+        "name": "نيزوكو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/9631bfa9255dc1c92d4b8.jpg",
+
+        "name": "نيفيرتاري"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/0ff1b38414462018996cb.jpg",
+
+        "name": "ليفاي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/075267497f6d25ffbb3ac.jpg",
+
+        "name": "ريزي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/335e5c44709d787dc52cf.jpg",
+
+        "name": "نيجي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/1bf0fbf7b6c5b838aa605.jpg",
+
+        "name": "ميدوريا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/fa919c6389cdb950f98d3.jpg",
+
+        "name": "مايكي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/cba30ae4d6e040c536ebe.jpg",
+
+        "name": "بان"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/0a4fd631f0398b0137edf.jpg",
+
+        "name": "اوباناي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/cd2c4cd7aac0ac7ed473b.jpg",
+
+        "name": "دينجي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/7cc4e2d9e6fc259931643.jpg",
+
+        "name": "توكيتو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/0b8507e32238614180c62.jpg",
+
+        "name": "اسكيلاد"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/06824309638caedd6816c.jpg",
+
+        "name": "ناغي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/f1bac44d568cbfb21779c.jpg",
+
+        "name": "ياماتو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/f1bac44d568cbfb21779c.jpg",
+
+        "name": "بيلاروسيا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/d0a4bbb42d8054f83c5ec.jpg",
+
+        "name": "اينوسكي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/53320c1d1f22fd49892bb.jpg",
+
+        "name": "غوجو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/42460e0994941fa7272e4.jpg",
+
+        "name": "كورابيكا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/656737c7a866146925347.jpg",
+
+        "name": "سوكونا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/ad0ae5ab022f1a8e24500.jpg",
+
+        "name": "ايتادوري"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/c611f476b1428aa386e14.jpg",
+
+        "name": "شوتو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/3c0ee70b4ecc9ba1f7f82.jpg",
+
+        "name": "توغا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/aaaffb13764f73e832cea.jpg",
+
+        "name": "ناروتو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/86d90568193ca2cbcec12.jpg",
+
+        "name": "باكاوغو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/cca779c2ea871ad6061d9.jpg",
+
+        "name": "شانكس"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/33e425e711ff34ef73a77.jpg",
+
+        "name": "ناروتو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/dc330d292d56876c14e8c.jpg",
+
+        "name": "كانيكي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/673779a63786384ce2d7d.jpg",
+
+        "name": "جوهان"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/427927268b5c0f93112c2.jpg",
+
+        "name": "ياتو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/a324e1f12aa8d2b621cc2.jpg",
+
+        "name": "ايتاتشي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/5b222f4ccfe1ec3fbbc77.jpg",
+
+        "name": "غينا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/b4ecf2f014eaffe6b7526.jpg",
+
+        "name": "ايرين"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/d7d2ce9434aeecef8f1e6.jpg",
+
+        "name": "ايزن"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/4348434ed093037d9ec28.jpg",
+
+        "name": "شينازوغوا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/b5a29f40be9681871cb36.jpg",
+
+        "name": "يامي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/fbb21a1b0eaea135809f5.jpg",
+
+        "name": "لوفي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/e323a94b42ce35987ee95.jpg",
+
+        "name": "الليحيه البيضاء"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/9d1f6cc90f569caa628fa.jpg",
+
+        "name": "اوبيتو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/0834ce5ce12e83caf10e7.jpg",
+
+        "name": "ناروتو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/189d9f37331bd8eb43bca.jpg",
+
+        "name": "ياماتو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/174b5f63fc81e2c5f5cac.jpg",
+
+        "name": "يوهانا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/79c710045e1c997203c91.jpg",
+
+        "name": "هيسوكا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/f3c93b758997d1d51ecd5.jpg",
+
+        "name": "كوكوشيبو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/90c48f2b8891b84afbd68.jpg",
+
+        "name": "غوجو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/79428e04791b1c064a92a.jpg",
+
+        "name": "شويا"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/c2bbf012352c8d3b7b473.jpg",
+
+        "name": "ميهوك"
+
+    },
+
+    {  
+
+      "img":"https://telegra.ph/file/d0185a2f06e8219e10916.jpg",
+
+       "name": "ايسديث"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/cc16a69b91ea4ec87aff0.jpg",
+
+        "name": "يوروتشي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/f0ea84dfd7f7af9a160d5.jpg",
+
+        "name": "يامي"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/580e9f5cb098e9a67e2b1.jpg",
+
+        "name": "شينوبو"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/e60f3d271586c4ee29136.jpg",
+
+        "name": "ايروين"
+
+    },
+
+    {
+
+        "img": "https://telegra.ph/file/8231b78c772608c52882c.jpg",
+
+        "name": "ميناتو"
+
+    }
+
 ]
